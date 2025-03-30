@@ -1,8 +1,10 @@
 ---
-title: Accueil
+title: "Accueil"
 order: 0
+in_menu: true
 ---
+# L'Insoumis du pays de Dinan
 
-# L'Échappée Belle
+Les Insoumis du pays de Dinan vous proposent une année 2025 de résistance. Résistons et luttons pour l'abrogation de la réforme des retraites, des revenus décents, plus de justice fiscale, plus de justice sociale, la défence de la planète. Au plaisir de vous rencontrer !
 
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+**La meilleure force de tyrans c'est l'inertie des peuples (La Boétie)** 
